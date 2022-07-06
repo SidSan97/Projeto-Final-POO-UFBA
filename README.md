@@ -42,3 +42,10 @@ Projeto final da disciplina da UFBA de Programação Orientada a Objeto (MATA 55
         Finalmente, deve-se quitar a(s) mensalidade(s) escolhida(s).
   </li>
 </ul>
+
+<br>
+
+<strong> Diagrama de classes do projeto </strong> 
+<br>
+
+<img src="https://github.com/SidSan97/Projeto-Final-POO-UFBA/blob/main/diagrama-de-classe.jpg?raw=true">
